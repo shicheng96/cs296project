@@ -5,7 +5,7 @@ A GDB-Like C/C++ Debugger that implements most debugger functionality like stepp
 # Usage
   ```
   cd VDebuggerDos/VDbg/Debug/
-  VDbg.exe yourprogram.exe
+  VDbg.exe yourprogram.exe(this program needs to be compiled by visual studio's compiler)
   ```
   
   Followings are all the availiable commands:
