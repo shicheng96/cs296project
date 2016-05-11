@@ -186,9 +186,11 @@ void help()
 	cout << "8.  bpinfo (show current break point information)" << endl;
 	cout << "9   stack (show stack information)" << endl;
 	cout << "10. print \t[variable]" << endl;
-	cout << "11. locals (show all local variables)" << endl;
-	cout << "12. globals (show all global variables)" << endl;
-	cout << "13. quit" << endl;
+	cout << "11. memory \t[memory address]:[num of bytes, in hex]" << endl;
+	cout << "12. locals (show all local variables)" << endl;
+	cout << "13. locals (show all local variables)" << endl;
+	cout << "14. globals (show all global variables)" << endl;
+	cout << "15. quit" << endl;
 	cout << "<vdbg> ";;
 }
 
